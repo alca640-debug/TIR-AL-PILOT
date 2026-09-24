@@ -1,0 +1,8 @@
+<resources>
+    <color name="pilot_bg">#08131F</color>
+    <color name="pilot_card">#102235</color>
+    <color name="pilot_blue">#1E88FF</color>
+    <color name="pilot_green">#28D17C</color>
+    <color name="pilot_text">#F4F7FB</color>
+    <color name="pilot_muted">#A7B4C2</color>
+</resources>
